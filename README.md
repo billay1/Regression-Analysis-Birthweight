@@ -1,4 +1,4 @@
-# Regression-Analysis-on-Birthweights
+# Regression-Analysis-on-Birthweight
 Regression analysis to determine factors affecting a newborn weights.
 •	Cleaned the data and replaced missing values with either mean or median based on data skewness
 •	Compared skewness of original data y and log y variables with bar charts to choose the best dependent variable 
